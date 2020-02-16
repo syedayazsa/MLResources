@@ -12,7 +12,7 @@ Contains all relevant, recent research papers related to machine learning advanc
 Holds a library of recommended books for ML and DL.
 
 ## Projects
-Contains all the notebooks and datasets which will help you gain practical application of ML algorithms.
+Contains all the notebooks, codes and datasets which will help you gain practical application of ML algorithms.
 
 ## Learning Materials
 Has other Paid and Non Paid suggested course guide, other materials.
