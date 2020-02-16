@@ -6,17 +6,13 @@ There are four folders in this repository.
 
 
 ## Research Papers
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Contains all relevant, recent research papers related to machine learning advancements, algorithms and applications.
 
 ## Books
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+Holds a library of recommended books for ML and DL.
 
 ## Projects
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+Contains all the notebooks and datasets which will help you gain practical application of ML algorithms.
 
 ## Learning Materials
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+Has other Paid and Non Paid suggested course guide, other materials.
