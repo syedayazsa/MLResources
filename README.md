@@ -1,7 +1,7 @@
 # Welcome
 
 
-This github repository will provide with all theresources which will help you along your ML journey.
+This github repository will provide with all the resources which will help you along your Machine learning journey.
 There are four folders in this repository.
 
 
