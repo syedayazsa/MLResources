@@ -1,4 +1,4 @@
-There are various popular machine learning books in the market. The most legendary and highest rated books will be recommended in this section.
+There are numerous popular machine learning books in the market. The most well-known and highest rated books will be recommended in this section.
 
 ## Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 The book covers basic theory of machine learning algorithms and has snippets of code for implementation purposes. It is the most recommended book in the market and you will surely see one on a data scientist's shelf.
